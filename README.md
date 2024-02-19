@@ -1,0 +1,2 @@
+# ManimProjects
+My manim playground.
